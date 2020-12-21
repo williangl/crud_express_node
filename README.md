@@ -16,3 +16,7 @@ On auto reload:
 ```
 npx nodemon app.js
 ```
+Or
+```
+npm run dev
+```
